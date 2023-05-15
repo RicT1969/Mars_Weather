@@ -35,14 +35,14 @@
       <li>To provide a visual estimate the daily minimum temperatures for the dataset were plotted, giving an estimate of 675 days in a martian year.</li></ul></ul></ol>
   
   <p><h3><b>Sources</b></h3><p>
-    </ul>https://stackoverflow.com/questions/22132525/add-column-with-number-of-days-between-dates-in-dataframe-pandas
-    https://stackoverflow.com/questions/37840812/pandas-subtracting-two-date-columns-and-the-result-being-an-integer
-    https://stackoverflow.com/questions/65048547/how-to-get-number-of-days-between-two-dates-using-pandas
-    https://bramtunggala.medium.com/a-simple-way-to-finding-the-difference-between-two-dates-in-pandas-179d2714b6c
-    https://realpython.com/beautiful-soup-web-scraper-python/
-    https://opensource.com/article/21/9/web-scraping-python-beautiful-soup
-    https://medium.com/geekculture/web-scraping-tables-in-python-using-beautiful-soup-8bbc31c5803e
-    https://docs.python.org/3/library/datetime.html
-    https://www.simplilearn.com/tutorials/python-tutorial/index-in-python
-    https://stackoverflow.com/questions/54255890/how-to-find-the-row-index-of-the-first-occurrence-of-a-match-in-a-cell-in-python
-    https://stackoverflow.com/questions/54255890/how-to-find-the-row-index-of-the-first-occurrence-of-a-match-in-a-cell-in-python](https://realpython.com/iterate-through-dictionary-python/)
+    <ul><li>https://stackoverflow.com/questions/22132525/add-column-with-number-of-days-between-dates-in-dataframe-pandas</li>
+    <li>https://stackoverflow.com/questions/37840812/pandas-subtracting-two-date-columns-and-the-result-being-an-integer</li>
+    <li>https://stackoverflow.com/questions/65048547/how-to-get-number-of-days-between-two-dates-using-pandas</li>
+    <li>https://bramtunggala.medium.com/a-simple-way-to-finding-the-difference-between-two-dates-in-pandas-179d2714b6c</li>
+    li>https://realpython.com/beautiful-soup-web-scraper-python</li>
+    <li>https://opensource.com/article/21/9/web-scraping-python-beautiful-soup</li>
+    <li>https://medium.com/geekculture/web-scraping-tables-in-python-using-beautiful-soup-8bbc31c5803e</li>
+    <li>https://docs.python.org/3/library/datetime.html</li>
+    <li>https://www.simplilearn.com/tutorials/python-tutorial/index-in-python</li>
+    <li>https://stackoverflow.com/questions/54255890/how-to-find-the-row-index-of-the-first-occurrence-of-a-match-in-a-cell-in-python</li>
+    <li>https://stackoverflow.com/questions/54255890/how-to-find-the-row-index-of-the-first-occurrence-of-a-match-in-a-cell-in-python]       (https://realpython.com/iterate-through-dictionary-python/)</li></ul>
